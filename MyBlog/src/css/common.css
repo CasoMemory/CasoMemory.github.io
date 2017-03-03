@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-width: 100%;
+    height: 100%;
+    color: #FFFFFF;
+    background-color: gray;
+    font-family: "Microsoft YaHei UI";
+    display: block;
+    text-align: center;
+}
