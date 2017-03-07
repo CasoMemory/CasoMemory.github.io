@@ -11,7 +11,7 @@ export default class Footer extends React.Component{
             href: 'http://blog.csdn.net/fcdd123'
         },{
             name: 'github',
-            href: 'https://casomemory.github.io/'
+            href: 'https://github.com/CasoMemory/projects'
         }];
         return NavLinks;
     }
