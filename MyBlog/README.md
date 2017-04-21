@@ -3,7 +3,7 @@ MyBlog's resource
     最近使用 [React](http://reactjs.cn/react/docs/getting-started.html) 和 [Webpack](https://webpack.js.org/guides/get-started/)工具写了一个小页面。在这个页面中，我把之前自己写的一些博客以列表的形式展现出来，具体可以参考实际运行后的效果。具体的运行方式如下：
 一、安装Node.js 和 NPM
 --------
-    （ps:如果你已经安装好了node.js和NPM请忽略这步。）在本地环境下（后面默认都是该环境），先安装好node.js和NPM。具体的教程可以自行百度
+    （ps:如果你已经安装好了node.js和NPM请忽略这步，开发的环境是在windows操作系统下搭建的。）在本地环境下（后面默认都是该环境），先安装好node.js和NPM。具体的教程可以自行百度
 
 二、安装依赖包
 ---
